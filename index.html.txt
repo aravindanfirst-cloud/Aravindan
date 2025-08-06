@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>V Aravindan | LMS Implementation Specialist</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>V Aravindan</h1>
+    <p>Deputy Manager – Project Implementation | EdTech & Corporate LMS</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      LMS Implementation Specialist with over 8 years of experience across EdTech, SaaS, ERP, and academic sectors.
+      Proven track record in leading end-to-end LMS implementations for B2B and B2C clients. Skilled in managing
+      cross-functional teams, delivering training programs, and ensuring long-term client success.
+    </p>
+  </section>
+
+  <section id="experience">
+    <h2>Work Experience</h2>
+
+    <div class="job">
+      <h3>Deputy Manager – Novac Technology Solutions</h3>
+      <span>Apr 2025 – Present</span>
+      <ul>
+        <li>Led LMS rollout for 20,000+ users across 20+ clients.</li>
+        <li>Delivered 8 project implementations, supported 12+ ongoing projects.</li>
+        <li>Proposed 55+ enhancements & resolved 420+ technical issues.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <h3>Lead Product Specialist – Octoze Technologies</h3>
+      <span>Nov 2021 – Aug 2023</span>
+      <ul>
+        <li>Managed full lifecycle of ERP/LMS implementations.</li>
+        <li>Trained 10,000+ users; received Employee of the Quarter award.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <h3>Agency Development Manager – Life Insurance</h3>
+      <span>Jul 2020 – Oct 2021</span>
+      <ul>
+        <li>Managed and trained a high-performing sales team.</li>
+        <li>Achieved Zonal Vice President’s Certificate and other performance awards.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <h3>Assistant Professor – Aarupadai Veedu Institute of Technology</h3>
+      <span>Apr 2019 – Jul 2020</span>
+      <ul>
+        <li>Led ERP adoption and IQAC documentation across the department.</li>
+        <li>Coordinated audits and inspections for NAAC and NBA accreditation.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <h3>Assistant Professor – ARS College of Engineering</h3>
+      <span>Jul 2016 – Apr 2019</span>
+      <ul>
+        <li>Served as AICTE and CAI (Anna University) Coordinator.</li>
+        <li>Organized training programs and student development workshops.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <h3>Sales Executive – Forech India Limited</h3>
+      <span>Jul 2013 – Apr 2014</span>
+      <ul>
+        <li>Led client product demonstrations.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <ul>
+      <li><strong>M.E:</strong> CAD/CAM – 80.3% – ARS College, Anna University</li>
+      <li><strong>B.E:</strong> Mechanical Engineering – 80.2% – AVIT, VMU</li>
+    </ul>
+  </section>
+
+  <section id="skills">
+    <h2>Technical Expertise</h2>
+    <ul>
+      <li>LMS/ERP: CAMU, CAI, AICTE Portal, AXLE KORP, KLASS</li>
+      <li>Office Tools: MS Word, Excel, PowerPoint</li>
+      <li>OS: Windows</li>
+      <li>Certification: Honors Diploma in Computer Application</li>
+    </ul>
+  </section>
+
+  <section id="competencies">
+    <h2>Core Competencies</h2>
+    <ul>
+      <li>LMS Implementation & Support</li>
+      <li>Business Analysis & Documentation</li>
+      <li>Client Relationship Management</li>
+      <li>Project Planning & MIS Reporting</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Project Highlights</h2>
+    <ul>
+      <li>
+        <strong>Education:</strong> Thiagarajar College, Dhanalakshmi Srinivasan University, Stella Maris, PSNA,
+        JKKN, Amrita Institutions.
+      </li>
+      <li>
+        <strong>Corporate:</strong> BHFL, Nibav Lifts, SISA, Blum India, Indian Oil Petronas, KWE Logistics,
+        Arete Services, Zell Education.
+      </li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p><strong>Location:</strong> Chennai, India</p>
+    <p><strong>Email:</strong> yourname@email.com</p>
+    <p><strong>LinkedIn:</strong> https://linkedin.com/in/your-profile</p>
+  </section>
+
+  <footer>
+    <p>© 2025 V Aravindan. All rights reserved.</p>
+  </footer>
+</body>
+</html>
